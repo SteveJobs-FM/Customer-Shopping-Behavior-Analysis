@@ -14,7 +14,7 @@ Tech Stack
 
    ● Python (pandas, NumPy) for data cleaning, EDA, and feature engineering
 
-   ● PostgreSQL for business queries and aggregations
+   ● MySQL for business queries and aggregations
 
    ● Power BI for interactive dashboarding and KPI visualization
 
